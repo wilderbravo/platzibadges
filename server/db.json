@@ -2,11 +2,11 @@
   "badges": [
     {
       "id": "2de30c42-9deb-40fc-a41f-05e62b5939a7",
-      "firstName": "Freda",
+      "firstName": "Fredo",
       "lastName": "Grady",
       "email": "Leann_Berge@gmail.com",
       "jobTitle": "Legacy Brand Director",
-      "twitter": "FredaGrady22221-7573",
+      "twitter": "FredoGrady",
       "avatarUrl": "https://www.gravatar.com/avatar/f63a9c45aca0e7e7de0782a6b1dff40b?d=identicon"
     },
     {
@@ -440,6 +440,14 @@
       "jobTitle": "Lawyer",
       "twitter": "ckaufmanpr",
       "id": "npaYZKI"
+    },
+    {
+      "firstName": "Wilder",
+      "lastName": "Bravo",
+      "email": "wilderbravoc@gmail.com",
+      "jobTitle": "Developer",
+      "twitter": "wilbravo",
+      "id": "Acj06H2"
     }
   ]
 }
